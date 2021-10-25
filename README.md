@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+Sahil here, curious about web development and computer science.
